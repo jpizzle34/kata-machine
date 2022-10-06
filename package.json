@@ -19,5 +19,6 @@
         "prettier": "prettier --write ./src",
         "generate": "node ./scripts/generate.js",
         "day": "echo src\\day2"
-    }
+    },
+    "packageManager": "yarn@3.2.4"
 }
